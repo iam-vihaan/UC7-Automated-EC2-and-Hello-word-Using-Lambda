@@ -1,0 +1,1 @@
+# UC7-Automated-EC2-and-Hello-word-Using-Lambda
